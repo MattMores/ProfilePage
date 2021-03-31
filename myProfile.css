@@ -1,0 +1,14 @@
+h1.my-name {
+    color: #4267B2;
+    padding: 40px 20px;
+  }
+  
+  ul.CEOFacts {
+    border: 1px solid gray;
+    padding: 40px;
+  }
+  
+  li.factItem {
+    list-style-type: square;
+    padding: 10px;
+  }
